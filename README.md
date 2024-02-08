@@ -12,7 +12,7 @@ This is a website project for showcasing design work, created using HTML, CSS, J
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-username/making-designs-website.git
+   git clone https://github.com/amrAbir/making-designs-website.git
 
 2. Open the index.html file in your browser
 
