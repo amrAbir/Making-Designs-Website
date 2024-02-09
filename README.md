@@ -23,7 +23,3 @@ You can use this project to display your design portofolio or as a template for 
 ## Site Preview
 
 ![](https://github.com/amrAbir/Making-Designs-Website/blob/main/preview.png)
-
-## Visit The site 
-
- https://amrabir.github.io/Making-Designs-Website/
