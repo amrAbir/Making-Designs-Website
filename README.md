@@ -20,6 +20,10 @@ This is a website project for showcasing design work, created using HTML, CSS, a
 
 You can use this project to display your design portofolio or as a template for creating a design showcase website.
 
-## Site preview
+## Site Preview
 
 ![](https://github.com/amrAbir/Making-Designs-Website/blob/main/preview.png)
+
+## Visit The site 
+
+ https://amrabir.github.io/Making-Designs-Website/
