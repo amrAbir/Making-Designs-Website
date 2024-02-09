@@ -1,6 +1,6 @@
 # Making Designs Website
 
-This is a website project for showcasing design work, created using HTML, CSS, JavaScript, and Bootstrap 5.
+This is a website project for showcasing design work, created using HTML, CSS, and Bootstrap 5.
 
 ## Technologies Used
 
@@ -19,3 +19,7 @@ This is a website project for showcasing design work, created using HTML, CSS, J
 ## Usage
 
 You can use this project to display your design portofolio or as a template for creating a design showcase website.
+
+## Site preview
+
+![](https://github.com/amrAbir/Making-Designs-Website/blob/main/preview.png)
